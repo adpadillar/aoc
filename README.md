@@ -1,8 +1,8 @@
 # Advent of code solutions
 
 **Author**: [Axel Padilla](https://axelpadilla.me)  
-**Twitter**: [@zopatista](https://twitter.com/adpadillar)  
-**GitHub**: [mjpieters](https://github.com/adpadillar)
+**Twitter**: [@adpadillar](https://twitter.com/adpadillar)  
+**GitHub**: [adpadillar](https://github.com/adpadillar)
 
 These are my [Advent of Code][aoc] (AoC) puzzle solutions.
 

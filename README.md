@@ -13,7 +13,7 @@ Most recent solutions use [Typescript][ts]. I don't aim to be first on any leade
 Each file on the corresponding year directory, exports a solution to a problem. To debug a solution, you can edit the index.ts file, import a solution and `console.log()` it to display it.
 
 ```bash
-yarn dev
+pnpm dev
 ```
 
 [aoc]: https://adventofcode.com/
